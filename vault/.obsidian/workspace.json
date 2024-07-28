@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "c06ceb49dd481eeb",
+        "id": "f714b0c88f603619",
         "type": "tabs",
         "children": [
           {
-            "id": "c018c0ee97b2f1d9",
+            "id": "c7ee17841f8aa93c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "data-mesh/Gefedereerd databeheer.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1cd0ee73d489afd1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "data-mesh/Data mesh execution framework.md",
+                "file": "data-mesh/_0_Over_het_boek.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "data-mesh/Data mesh execution framework.md",
+                "file": "data-mesh/_0_Over_het_boek.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "data-mesh/Data mesh execution framework.md",
+                "file": "data-mesh/_0_Over_het_boek.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "data-mesh/Data mesh execution framework.md"
+                "file": "data-mesh/_0_Over_het_boek.md"
               }
             }
           }
@@ -159,22 +146,30 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1cd0ee73d489afd1",
+  "active": "c7ee17841f8aa93c",
   "lastOpenFiles": [
-    "data-mesh/New Text Document.txt",
+    "data-mesh/Terminologie/Data als een product (DaaP).md",
+    "data-mesh/Terminologie/Untitled.md",
+    "data-mesh/_0_Over_het_boek.md",
+    "data-mesh/Terminologie/Data store.md",
+    "data-mesh/Terminologie/Data mesh execution framework.md",
     "data-mesh/Data beheren en overzien.md",
-    "data-mesh/Data mesh execution framework.md",
-    "data-mesh/Data ontdekken, begrijpen en samenstellen.md",
-    "data-mesh/Data consumeren, transformeren en opleveren binnen een data mesh.md",
-    "data-mesh/Dataproduct volgens betaalbaarheid ontwerpen.md",
-    "data-mesh/Multiplane data architectuur van een data mesh.md",
-    "data-mesh/Logische architectuur van een data mesh.md",
     "data-mesh/Verbuigingspunt.md",
-    "data-mesh/Gefedereerd databeheer.md",
-    "data-mesh/Self-serve dataplatform.md",
-    "data-mesh/Data als een product (DaaP).md",
-    "data-mesh/Domain ownership.md",
+    "data-mesh/Logische architectuur van een data mesh.md",
+    "data-mesh/Terminologie/Data federaliseren.md",
+    "data-mesh/Terminologie/Multiplane data architectuur van een data mesh.md",
+    "data-mesh/Terminologie/Self-serve dataplatform.md",
     "data-mesh/Data mesh in een notendop.md",
+    "data-mesh/Data consumeren, transformeren en opleveren binnen een data mesh.md",
+    "data-mesh/Terminologie/Data decentraliseren.md",
+    "data-mesh/Terminologie/Data centraliseren.md",
+    "data-mesh/Terminologie/Data lake.md",
+    "data-mesh/Terminologie.md",
+    "data-mesh/Terminologie",
+    "data-mesh/New Text Document.txt",
+    "data-mesh/Data ontdekken, begrijpen en samenstellen.md",
+    "data-mesh/Dataproduct volgens betaalbaarheid ontwerpen.md",
+    "data-mesh/Domain ownership.md",
     "data-mesh",
     "dmbok2",
     "Welcome.md"

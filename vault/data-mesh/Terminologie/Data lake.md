@@ -1,0 +1,1 @@
+Deze technologie helpt om de toegang tot rouwe data te populariseren. Zo kunnen analisten een zo dicht mogelijke connectie leggen met de bron. Echter is het van belang dat er voldoende documentatie en begrip is over de bron die analisten willen raadplegen. De kernvraag hier is: 'waar komt de data vandaan?'.
